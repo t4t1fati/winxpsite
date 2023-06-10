@@ -73,7 +73,7 @@ const MyWork = ({ id }: Props) => {
           <div className={styles.body}>
             <h4>Welcome To My Portfolio Section</h4>
             <h5>
-              Begin Navigation by clicking on one of my projects on the left
+              asd Navigation by clicking on one of my projects on the left
               panel
             </h5>
             <h5>These are some of the tech stacks I have experiences with!</h5>
